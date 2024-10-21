@@ -1,6 +1,6 @@
 +++
 date = '2024-10-21T19:37:39+05:45'
-title = 'Love N Shi'
+title = 'For the moon-faced angel'
 +++
 # Tale of A Reminiscence Magnifique
 

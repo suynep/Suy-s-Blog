@@ -80,3 +80,10 @@ In my free time, I love scouring through pages and pages of Philosophy, Tech, Li
   content = "Moi inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
   btnName = "Reach Me"
   btnLink = "mailto:suy.nepal@gmail.com"
+
+[params.footer]
+[params.footer.recentPosts]
+path = "posts"
+count = 3
+title = "Recent Writings"
+enable = true
