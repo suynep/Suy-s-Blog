@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Suy&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Suy&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2024 19:13:32 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Things</title>
+      <link>http://localhost:1313/posts/personal/</link>
+      <pubDate>Mon, 21 Oct 2024 19:13:32 +0545</pubDate>
+      <guid>http://localhost:1313/posts/personal/</guid>
+      <description>&lt;h1 id=&#34;hmmm&#34;&gt;Hmmm..?&lt;/h1&gt;&#xA;&lt;p&gt;Anxiety is a strange demon. Laziness stands somewhere in the same pedestal for me. These two cling to my back like a two year old does his momma, and my sad soul has never ever been able to get rid of them in the slightest. Why though&amp;hellip;? What would it take for me to change?&lt;/p&gt;&#xA;&lt;p&gt;Determination? Not enough. Indulging myself in distractions that pertain to academia, but fruitless nevertheless? Pointless. I&amp;rsquo;m stuck. STOK.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello Web</title>
+      <link>http://localhost:1313/posts/hello-web/</link>
+      <pubDate>Mon, 21 Oct 2024 18:03:49 +0545</pubDate>
+      <guid>http://localhost:1313/posts/hello-web/</guid>
+      <description>&lt;h1 id=&#34;hello-web&#34;&gt;Hello, Web&lt;/h1&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m Suyash. You can call me Suy. Over the course of recent years, I&amp;rsquo;ve been exploring Web Development, Open Source Softwares, and the likes. I&amp;rsquo;m passionate about design, development, and deployment of Web Applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Things</title>
+      <link>http://localhost:1313/posts/on-things/</link>
+      <pubDate>Mon, 21 Oct 2024 18:03:49 +0545</pubDate>
+      <guid>http://localhost:1313/posts/on-things/</guid>
+      <description>&lt;h1 id=&#34;on-religion-spirituality-and-life-from-the-eyes-of-a-blooming-sun&#34;&gt;On Religion, Spirituality, and Life: from the eyes of a blooming sun&lt;/h1&gt;&#xA;&lt;p&gt;If I told you I&amp;rsquo;m Religious, you&amp;rsquo;ll laugh. If I, however, tell you that I&amp;rsquo;m Spiritual, you will hold me in a higher pedestal. The difference in terminology, though distinct, isn&amp;rsquo;t totally disjoint in the aspect of conveyance. I&amp;rsquo;d say both religiosity, and spirituality are two faces of the same coin. The coin of metaphysics and it&amp;rsquo;s abstractions. Shambhu Bholanath Yogi Mahadeva? What am I listening to? Raga Adana. Beautiful bhajana.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
