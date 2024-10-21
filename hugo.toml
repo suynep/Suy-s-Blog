@@ -22,6 +22,7 @@ weight = 2
   title = "Suyash from n e p a l"
   description = "Passionate Software Developer interested in Web Design, Systems Programming and Generative AI"
   favicon = "/favicon.png"
+  animate = true
   [params.hero]
     enable = true
     intro = "everyone calls me"
