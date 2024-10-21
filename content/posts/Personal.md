@@ -1,6 +1,5 @@
 +++
 date = '2024-10-21T19:13:32+05:45'
-draft = true
 title = 'On Things'
 +++
 
