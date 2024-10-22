@@ -2,6 +2,8 @@ baseURL = 'https://nepalsuyash.com.np'
 languageCode = 'en-us'
 theme = 'hugo-profile'
 title = "Suy's Blog"
+disqusShortname = "suyashnepal"
+enableRobotsTXT = true
 
 
 [outputs]
