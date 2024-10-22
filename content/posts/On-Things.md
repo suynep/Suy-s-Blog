@@ -1,6 +1,10 @@
 +++
 date = '2024-10-21T18:03:49+05:45'
 title = 'On Things'
+author = 'Suyash'
+draft = false
+description=""
+tags = ['opinion', 'life']
 +++
 
 # On Religion, Spirituality, and Life: from the eyes of a blooming sun

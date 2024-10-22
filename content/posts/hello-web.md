@@ -1,6 +1,10 @@
 +++
 date = '2024-10-21T18:03:49+05:45'
 title = 'Hello Web'
+draft = false
+description=""
+author = 'Suyash'
+tags = ['introduction', 'about me']
 +++
 
 # Hello, Web

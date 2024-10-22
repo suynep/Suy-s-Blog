@@ -1,6 +1,10 @@
 +++
 date = '2024-10-21T19:13:32+05:45'
 title = 'On Things'
+draft = false
+author = 'Suyash'
+description=""
+tags = ['opinion', 'retrospection']
 +++
 
 # Hmmm..?

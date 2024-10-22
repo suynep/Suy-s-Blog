@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Suy&#39;s Blog</title>
+    <link>http://localhost:1313/tags/about-me/</link>
+    <description>Recent content in About Me on Suy&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2024 18:03:49 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Web</title>
+      <link>http://localhost:1313/posts/hello-web/</link>
+      <pubDate>Mon, 21 Oct 2024 18:03:49 +0545</pubDate>
+      <guid>http://localhost:1313/posts/hello-web/</guid>
+      <description>&lt;h1 id=&#34;hello-web&#34;&gt;Hello, Web&lt;/h1&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m Suyash. You can call me Suy. Over the course of recent years, I&amp;rsquo;ve been exploring Web Development, Open Source Softwares, and the likes. I&amp;rsquo;m passionate about design, development, and deployment of Web Applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

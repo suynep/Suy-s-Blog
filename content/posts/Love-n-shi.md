@@ -1,6 +1,10 @@
 +++
 date = '2024-10-21T19:37:39+05:45'
 title = 'For the moon-faced angel'
+author = 'Suyash'
+draft = false
+description=""
+tags = ['poem', 'love']
 +++
 # Tale of A Reminiscence Magnifique
 

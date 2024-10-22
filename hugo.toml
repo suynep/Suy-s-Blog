@@ -4,6 +4,14 @@ theme = 'hugo-profile'
 title = "Suy's Blog"
 
 
+[outputs]
+  home=["HTML", "RSS", "JSON"]
+  page=["HTML", "RSS"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
 [[Menus.main]]
 identifier = "blog"
 name = "Blog"
@@ -23,6 +31,22 @@ weight = 2
   description = "Passionate Software Developer interested in Web Design, Systems Programming and Generative AI"
   favicon = "/favicon.png"
   animate = true
+  [params.color]
+    textColor= "#343a40"
+    secondaryTextColor= "#6c757d"
+    textLinkColor= "#774fe3"
+    backgroundColor= "#eaedf0"
+    secondaryBackgroundColor= "#64ffda1a"
+    primaryColor= "#774fe3"
+    secondaryColor= "#f8f9fa"
+  [params.color.darkmode]
+    textColor= "#e4e6eb"
+    secondaryTextColor= "#b0b3b8"
+    textLinkColor= "#dcbc09"
+    backgroundColor= "#18191a"
+    secondaryBackgroundColor= "#212529"
+    primaryColor= "#dcbc09"
+    secondaryColor= "#212529"
   [params.hero]
     enable = true
     intro = "everyone calls me"
