@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nepalsuyash.com.np/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2024-10-21T21:01:56+05:45</lastmod>
   </url><url>
-    <loc>https://nepalsuyash.com.np/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-21T21:01:56+05:45</lastmod>
   </url><url>
-    <loc>https://nepalsuyash.com.np/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://nepalsuyash.com.np/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
